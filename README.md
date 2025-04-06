@@ -1,4 +1,5 @@
-Bell Button Challenge
+Belly Button Challenge
+
 I built an interactive dashboard that displays information about different bacterial samples found in belly buttons. 
 When a user selects a sample from a dropdown menu, the dashboard automatically updates to show three things which include:
 A summary of the sample’s demographic data
